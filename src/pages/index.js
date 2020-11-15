@@ -10,7 +10,7 @@ import Checkout from '../components/checkout'
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Hi people</h1>
+    <h1>Hi people - nsa</h1>
     <p>Welcome to your new Gatsby e-commerce site.</p>
     <Checkout />
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
